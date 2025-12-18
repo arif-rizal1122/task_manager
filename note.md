@@ -8,3 +8,4 @@
 - mempelajari beberapa command 
 
 3. Ip address
+- Ip address tidak bisa melacak koordinat secara akurat
