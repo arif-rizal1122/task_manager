@@ -9,3 +9,4 @@
 
 3. Ip address
 - Ip address tidak bisa melacak koordinat secara akurat
+- melacak Ip address dari Android app lenih sulit dibandingka web
