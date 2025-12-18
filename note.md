@@ -6,3 +6,5 @@
 2. mempelajara cyber security
 - mempelajari dasar2 ethical hacking
 - mempelajari beberapa command 
+
+3. Ip address
